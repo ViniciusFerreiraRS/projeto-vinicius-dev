@@ -2,8 +2,6 @@
 
 ## Sobre o projeto
 
-## Sobre o projeto
-
 Este repositório documenta minha jornada de transição de carreira para a área de Tecnologia.
 
 Meu objetivo é construir uma base sólida em Desenvolvimento de Software e Ciência da Computação por meio de estudos, prática e desenvolvimento de projetos. No futuro, pretendo me especializar em Inteligência Artificial aplicada e Segurança de Aplicações.
