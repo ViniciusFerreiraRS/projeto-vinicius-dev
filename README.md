@@ -1,2 +1,57 @@
-# projeto-vinicius-dev
-Minha jornada de transição de carreira para Tecnologia, com estudos em Desenvolvimento de Software, Python, Cybersegurança e Inteligência Artificial.
+# 🚀 Projeto Vinicius Dev
+
+## Sobre o projeto
+
+Este repositório documenta minha jornada de transição de carreira para a área de Tecnologia.
+
+Meu objetivo é construir uma base sólida em Desenvolvimento de Software, Ciência da Computação, Segurança e Inteligência Artificial através de estudos, prática e criação de projetos.
+
+## Objetivos
+
+- Desenvolver fundamentos de programação
+- Aprender Desenvolvimento de Software
+- Criar projetos práticos
+- Construir um portfólio profissional
+- Evoluir continuamente minhas habilidades técnicas
+
+## Tecnologias e conhecimentos em estudo
+
+- Python
+- Lógica de Programação
+- Git e GitHub
+- Linux
+- Banco de Dados
+- Fundamentos de Computação
+- Cybersegurança
+- Inteligência Artificial
+
+## Roadmap de aprendizado
+
+### Fundamentos
+
+- [ ] Lógica de programação
+- [ ] Python
+- [ ] Git e GitHub
+- [ ] Linux
+
+### Desenvolvimento de Software
+
+- [ ] Estruturas de dados
+- [ ] Banco de dados
+- [ ] APIs
+- [ ] Engenharia de Software
+
+### Próximos passos
+
+- [ ] Cloud Computing
+- [ ] Inteligência Artificial aplicada
+- [ ] Segurança de aplicações
+
+## Projetos
+
+Projetos práticos serão adicionados conforme minha evolução nos estudos.
+
+---
+
+**Vinicius Ferreira**  
+Estudante de Tecnologia | Desenvolvimento de Software | Python | Cybersegurança | Inteligência Artificial
