@@ -29,7 +29,8 @@ Meu objetivo é construir uma base sólida em Desenvolvimento de Software e Ciê
 
 ### Fundamentos
 
-- [ ] Lógica de programação
+- [x] Fundamentos iniciais de lógica de programação
+- [ ] Aprofundamento em lógica de programação (múltiplos valores, funções e módulos)
 - [ ] Python
 - [ ] Git e GitHub
 - [ ] Linux
