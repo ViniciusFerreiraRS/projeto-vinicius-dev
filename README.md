@@ -47,6 +47,10 @@ Meu objetivo é construir uma base sólida em Desenvolvimento de Software e Ciê
 - [ ] Inteligência Artificial aplicada
 - [ ] Segurança de aplicações
 
+## Outros repositórios
+
+- [Potencializando Estudos e Carreira com IA](https://github.com/ViniciusFerreiraRS/potencializando-estudos-carreira-com-ia) — planejamento, cronograma, recursos e registros da minha jornada de estudos.
+
 ## Estudos e registros
 
 - [Registro de estudos — Lógica de Programação](estudos/logica-de-programacao.md): conceitos praticados e exercício resolvido em Portugol.
