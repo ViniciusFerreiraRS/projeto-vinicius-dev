@@ -47,6 +47,10 @@ Meu objetivo é construir uma base sólida em Desenvolvimento de Software e Ciê
 - [ ] Inteligência Artificial aplicada
 - [ ] Segurança de aplicações
 
+## Estudos e registros
+
+- [Registro de estudos — Lógica de Programação](estudos/logica-de-programacao.md): conceitos praticados e exercício resolvido em Portugol.
+
 ## Projetos
 
 Projetos práticos serão adicionados conforme minha evolução nos estudos.
