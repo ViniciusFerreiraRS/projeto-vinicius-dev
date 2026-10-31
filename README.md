@@ -37,7 +37,7 @@ O projeto também registra minha evolução prática, incluindo estudos, uso de 
 - [x] Fundamentos iniciais de lógica de programação
 - [ ] Aprofundamento em lógica de programação (múltiplos valores, funções e módulos)
 - [ ] Python — iniciando por meio de projetos de estudo
-- [ ] Git e GitHub — em prática
+- [x] Git e GitHub — fundamentos e prática inicial concluídos
 - [ ] Linux
 
 ### Desenvolvimento de Software
