@@ -30,6 +30,18 @@ O projeto também registra minha evolução prática, incluindo estudos, uso de 
 - Inteligência Artificial
 - Desenvolvimento assistido por IA
 
+## Formação complementar
+
+Cursos introdutórios concluídos na **Escola do Trabalhador 4.0**, com conteúdos ligados à Inteligência Artificial e produtividade com ferramentas da Microsoft:
+
+- Introdução à Inteligência Artificial para Iniciantes
+- Faça Mais com Copilot Chat no dia a dia
+- Turbine seu Trabalho com Copilot no Word, Excel, PowerPoint e Outlook
+- IA com Responsabilidade: Ética, Segurança e Confiança
+- Prompts que Funcionam! Converse Melhor com a IA
+
+Esses estudos complementam minha formação principal em programação e fundamentos de computação, abordando conceitos de IA, IA generativa, uso responsável, engenharia de prompts e aplicações práticas.
+
 ## Roadmap de aprendizado
 
 ### Fundamentos
