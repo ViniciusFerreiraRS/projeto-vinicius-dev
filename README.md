@@ -71,6 +71,23 @@ Esses estudos complementam minha formação principal em programação e fundame
 
 ## Projetos de portfólio
 
+### Porsche AI Data Review — Santander/DIO (novembro de 2026)
+
+Projeto educacional realizado na aceleração **AI Reports com Excel, GPT Agents e Claude Code**, promovida pelo Santander em parceria com a DIO. A partir de uma base de vendas de veículos Porsche, desenvolvi o exercício com apoio de IA, participando da definição dos requisitos, da análise dos dados e da validação dos resultados.
+
+**O que o projeto apresenta:**
+- **Data Review:** identificação de inconsistências e registro das decisões de tratamento;
+- **Python:** pipeline reproduzível de limpeza, normalização e validação de dados;
+- **`schema.md`:** documentação das regras, campos e indicadores;
+- **Proteção de dados:** supressão de identificadores diretos e pseudonimização para publicação didática;
+- **Dashboard interativo:** Big Cards, gráficos, filtros e insights;
+- **GitHub Pages:** publicação da visualização para acesso no navegador.
+
+A solução foi desenvolvida com **assistência de inteligência artificial**. Meu foco de aprendizado é compreender as regras, revisar as saídas e evoluir progressivamente na capacidade de manter e modificar o código.
+
+🔗 [Visualizar dashboard](https://viniciusferreirars.github.io/porsche-ai-data-review/)  
+🔗 [Código, planilha tratada e documentação](https://github.com/ViniciusFerreiraRS/porsche-ai-data-review)
+
 ### Clube Aquático
 
 Projeto de estudo em Python desenvolvido com apoio de inteligência artificial, utilizado para praticar lógica de programação, regras de negócio, validações, testes, documentação e Git/GitHub.
