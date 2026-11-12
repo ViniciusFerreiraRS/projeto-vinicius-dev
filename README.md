@@ -69,6 +69,16 @@ Esses estudos complementam minha formação principal em programação e fundame
 
 - [Registro de estudos — Lógica de Programação](estudos/logica-de-programacao.md): conceitos praticados e exercício resolvido em Portugol.
 
+## 📚 Biblioteca de materiais de estudo
+
+Materiais de referência que estou reunindo para aprofundar os estudos e consultar durante o desenvolvimento dos projetos.
+
+### Inteligência Artificial e Engenharia de Prompts
+
+- **[Engenharia de Prompts — GitHub Copilot (documentação oficial)](https://docs.github.com/pt/copilot/concepts/prompting-and-context/prompt-engineering)**  
+  Técnicas para formular instruções claras, fornecer contexto relevante, dividir problemas em etapas e revisar respostas geradas por IA.  
+  **Aplicação nos estudos:** usar essas práticas para aprender Python, compreender códigos, investigar erros e revisar soluções sem substituir o raciocínio próprio.
+
 ## Projetos de portfólio
 
 ### Porsche AI Data Review — Santander/DIO (novembro de 2026)
