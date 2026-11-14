@@ -79,6 +79,22 @@ Materiais de referência que estou reunindo para aprofundar os estudos e consult
   Técnicas para formular instruções claras, fornecer contexto relevante, dividir problemas em etapas e revisar respostas geradas por IA.  
   **Aplicação nos estudos:** usar essas práticas para aprender Python, compreender códigos, investigar erros e revisar soluções sem substituir o raciocínio próprio.
 
+## Experiências práticas recentes
+
+### DIO Agent no Google Antigravity — novembro de 2026
+
+Durante o bootcamp **Santander — Cibersegurança do Zero à Prática**, explorei o repositório público [DIO Agent](https://github.com/digitalinnovationone/dio-agent) e realizei uma atividade introdutória com agentes de IA:
+
+- Preparei o ambiente Google Antigravity;
+- Baixei e abri o repositório do DIO Agent;
+- Reconheci o papel do arquivo `AGENTS.md`, que orienta o comportamento do agente;
+- Autorizei a leitura dos arquivos do projeto para o teste inicial;
+- Iniciei uma conversa com o agente e conferi suas habilidades educacionais.
+
+**Aprendizado:** diferença entre um agente, um *harness* (ambiente em que ele opera) e as instruções que definem seu comportamento. Essa foi uma experiência de **instalação, exploração e uso inicial**, não o desenvolvimento de um agente próprio.
+
+**Próximos passos:** praticar mais lógica e Python, explicar o código com minhas palavras e registrar pequenas modificações feitas por mim.
+
 ## Projetos de portfólio
 
 ### Porsche AI Data Review — Santander/DIO (novembro de 2026)
