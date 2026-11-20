@@ -47,22 +47,22 @@ Esses estudos complementam minha formação principal em programação e fundame
 ### Fundamentos
 
 - [x] Fundamentos iniciais de lógica de programação
-- [ ] Aprofundamento em lógica de programação (múltiplos valores, funções e módulos)
-- [ ] Python — iniciando por meio de projetos de estudo
+- [x ] Aprofundamento em lógica de programação (múltiplos valores, funções e módulos)
+- [x] Python — iniciando por meio de projetos de estudo
 - [x] Git e GitHub — fundamentos e prática inicial concluídos
-- [ ] Linux
+- [x] Linux
 
 ### Desenvolvimento de Software
 
 - [ ] Estruturas de dados
-- [ ] Banco de dados
+- [x] Banco de dados
 - [ ] APIs
-- [ ] Engenharia de Software
+- [x] Engenharia de Software
 
 ### Próximos passos
 
 - [ ] Cloud Computing
-- [ ] Inteligência Artificial aplicada
+- [x] Inteligência Artificial aplicada
 - [ ] Segurança de aplicações
 
 ## Estudos e registros
