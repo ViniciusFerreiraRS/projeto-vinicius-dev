@@ -47,7 +47,7 @@ Esses estudos complementam minha formação principal em programação e fundame
 ### Fundamentos
 
 - [x] Fundamentos iniciais de lógica de programação
-- [x ] Aprofundamento em lógica de programação (múltiplos valores, funções e módulos)
+- [x] Aprofundamento em lógica de programação (múltiplos valores, funções e módulos)
 - [x] Python — iniciando por meio de projetos de estudo
 - [x] Git e GitHub — fundamentos e prática inicial concluídos
 - [x] Linux
